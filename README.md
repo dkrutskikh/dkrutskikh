@@ -3,7 +3,8 @@
 I'm a software developer and teamleader a bit
 
 ---
-- 🔭 I’m currently working on [YAFB Reader](https://github.com/dkrutskikh/yafb-reader)
+- 🔭 I’m currently working on [Code Checker Project](https://github.com/dart-code-checker-project)
+- 💬 Ask me about anything [here](https://github.com/dkrutskikh/dkrutskikh/discussions)
 - 📫 How to reach me: **dmitry.krutskikh@gmail.com**
 ---
 
@@ -22,7 +23,6 @@ There are little statistic about my work:
 
 Here are some ideas to get you started:
 
-- 💬 Ask me about anything [here](https://github.com/dkrutskikh/dkrutskikh/issues)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
