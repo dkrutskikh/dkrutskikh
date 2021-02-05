@@ -11,7 +11,7 @@ I'm a software developer and teamleader a bit
 There are little statistic about my work:
 
 <a href="https://github.com/dkrutskikh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dkrutskikh&show_icons=true&include_all_commits=true&theme=nord" alt="Dmitry Krutskikh's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dkrutskikh&show_icons=true&include_all_commits=false&theme=nord" alt="Dmitry Krutskikh's github stats" />
 </a>
 
 <a href="https://github.com/dkrutskikh">
