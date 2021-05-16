@@ -3,7 +3,7 @@
 I'm a software developer and teamleader a bit
 
 ---
-- 🔭 I’m currently working on [Code Checker Project](https://github.com/dart-code-checker-project)
+- 🔭 I’m currently working on [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics)
 - 💬 Ask me about anything [here](https://github.com/dkrutskikh/dkrutskikh/discussions)
 - 📫 How to reach me: **dmitry.krutskikh@gmail.com**
 ---
