@@ -19,13 +19,13 @@ I'm a software engineer and teamleader a bit. Most experienced with Angular Dart
 
 ---
 
-### 📖 My recent articles
+## 📖 My recent articles
 
 * How to write your own GitHub Action on Dart ([ru](https://habr.com/ru/company/surfstudio/blog/568030/))
 
 ---
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 * **E-mail:** [dmitry.krutskikh@gmail.com](mailto:dmitry.krutskikh@gmail.com)  
 * **Linkedin:** [linkedin.com/in/dmitry-krutskikh](https://www.linkedin.com/in/dmitry-krutskikh)  
