@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dmitry
 
-I'm a software engineer and teamleader a bit. Most experienced with Angular Dart and Flutter. Prefer quality over quantity.
+I'm a software engineer and teamleader a bit. Most experienced with Flutter and Angular Dart. Prefer quality over quantity.
 
 ---
 
