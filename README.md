@@ -20,6 +20,14 @@ I'm a software engineer and teamleader a bit. Most experienced with Flutter and 
 
 ---
 
+## 🎤 My public speakings
+
+* Flutter Live Coding: Writing code that can be covered by tests ([ru](https://youtu.be/9DGO0OMUAVM/))
+* Flutter Live Coding: Internationalisation in application ([ru](https://youtu.be/fIMwFcC9bsc/))
+* Flutter Voronezh Meetup | Build methods vs Widget ([ru](https://youtu.be/PNJDqt3Z_7Q/))
+
+---
+
 ## 📖 My recent articles
 
 * How to write your own GitHub Action on Dart ([ru](https://habr.com/ru/company/surfstudio/blog/568030/))
