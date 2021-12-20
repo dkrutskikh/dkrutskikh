@@ -24,7 +24,8 @@ I'm a software engineer and teamleader a bit. Most experienced with Flutter and 
 
 * Flutter Live Coding: Writing code that can be covered by tests ([ru](https://youtu.be/9DGO0OMUAVM/))
 * Flutter Live Coding: Internationalisation in application ([ru](https://youtu.be/fIMwFcC9bsc/))
-* Flutter Voronezh Meetup | Build methods vs Widget ([ru](https://youtu.be/PNJDqt3Z_7Q/))
+* Flutter Voronezh Meetup: Build methods vs Widget ([ru](https://youtu.be/PNJDqt3Z_7Q/))
+* Dart Up 2021: HOW TO MEASURE YOUR TECH DEBT WITH DART CODE METRICS ([ru](https://www.youtube.com/watch?v=0QfQkr_fsaU))
 
 ---
 
