@@ -19,6 +19,7 @@ I'm a software engineer and teamleader a bit. Most experienced with Flutter and 
 [![Dart Code Metrics](https://github-readme-stats.vercel.app/api/pin/?username=dart-code-checker&repo=dart-code-metrics)](https://github.com/dart-code-checker/dart-code-metrics)
 [![Actions Toolkit for Dart](https://github-readme-stats.vercel.app/api/pin/?username=dkrutskikh&repo=actions-toolkit-dart)](https://github.com/dkrutskikh/actions-toolkit-dart)
 [![Health Diary](https://github-readme-stats.vercel.app/api/pin/?username=ToymanInteractive&repo=toy-health-diary)](https://github.com/ToymanInteractive/toy-health-diary)
+[![Godot devkitPro Edition](https://github-readme-stats.vercel.app/api/pin/?username=dkrutskikh&repo=godot-devkitPro-edition)](https://github.com/dkrutskikh/godot-devkitPro-edition)
 
 ---
 
