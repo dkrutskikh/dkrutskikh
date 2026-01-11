@@ -6,11 +6,12 @@ I'm a software engineer and teamleader a bit. Most experienced with C++ / Direct
 
 ## 🛠 Tech Stack
 
-* [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)](https://dart.dev/) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-* [![VsCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?logo=jetbrains&style=flat)
-* ![Angular](https://img.shields.io/badge/-Angular%20Dart-05122A?style=flat&logo=angular&logoColor=blue) [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=lightblue)](http://flutter.dev/)
-* [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)
-* ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github) ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
+* ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
+* ![VsCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?logo=intellijidea&style=flat)
+* ![Open GL](https://img.shields.io/badge/-Open%20GL-05122A?style=flat&logo=opengl&logoColor=#5586A4) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B) ![Angular](https://img.shields.io/badge/-Angular%20Dart-05122A?style=flat&logo=angular)
+* ![Catch2](https://img.shields.io/badge/-Catch2-05122A?style=flat&logo=cplusplus&logoColor=00599C) ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart&logoColor=0175C2)
+* ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C) ![SonarQubeCloud](https://img.shields.io/badge/-Sonar%20Qube%20Cloud-05122A?style=flat&logo=sonarqubecloud&logoColor=126ED3) ![Doxygen](https://img.shields.io/badge/-Doxygen-05122A?style=flat&logo=doxygen&logoColor=2C4AA8)
+* ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github) ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab&logoColor=FC6D26)
 
 ---
 
